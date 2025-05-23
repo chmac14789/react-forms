@@ -1,6 +1,6 @@
 {
   "projectName": "formik",
-  "projectOwner": "jaredpalmer",
+  "projectOwner": "chmac14789",
   "files": [
     "packages/formik/README.md"
   ],
@@ -8,10 +8,10 @@
   "commit": true,
   "contributors": [
     {
-      "login": "jaredpalmer",
+      "login": "chmac14789",
       "name": "Jared Palmer",
       "avatar_url": "https://avatars2.githubusercontent.com/u/4060187?v=4",
-      "profile": "http://jaredpalmer.com",
+      "profile": "http://chmac14789.com",
       "contributions": [
         "question",
         "code",

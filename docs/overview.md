@@ -19,7 +19,7 @@ organized--making testing, refactoring, and reasoning about your forms a breeze.
 
 ## Motivation
 
-I ([@jaredpalmer](https://twitter.com/jaredpalmer)) wrote Formik while building a large internal administrative dashboard with
+I ([@chmac14789](https://twitter.com/chmac14789)) wrote Formik while building a large internal administrative dashboard with
 [@eonwhite](https://twitter.com/eonwhite). With around ~30 unique forms, it
 quickly became obvious that we could benefit by standardizing not just our input
 components but also the way in which data flowed through our forms.

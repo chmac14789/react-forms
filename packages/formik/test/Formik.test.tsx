@@ -1148,7 +1148,7 @@ describe('<Formik>', () => {
   //   beforeEach(() => {
   //     initialValues = {
   //       name: 'formik',
-  //       github: { repoUrl: 'https://github.com/jaredpalmer/formik' },
+  //       github: { repoUrl: 'https://github.com/chmac14789/formik' },
   //       watchers: ['ian', 'sam'],
   //     };
 

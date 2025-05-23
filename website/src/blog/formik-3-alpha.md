@@ -55,7 +55,7 @@ const [field] = useField({ name: 'phone', parse: rawInput => ... })
 
 And here's a full example that uses the `[format-string-by-pattern](https://www.npmjs.com/package/format-string-by-pattern)` package to create various phone number input masks. Notice on the first input that even though you type 9999999999 the input's value (and Formik's internal value) is 999-999-9999. Neat!
 
-[https://codesandbox.io/s/github/jaredpalmer/formik/tree/next/examples/format-string-by-pattern?fontsize=14&hidenavigation=1&theme=dark&file=/index.js](https://codesandbox.io/s/github/jaredpalmer/formik/tree/next/examples/format-string-by-pattern?fontsize=14&hidenavigation=1&theme=dark&file=/index.js)
+[https://codesandbox.io/s/github/chmac14789/formik/tree/next/examples/format-string-by-pattern?fontsize=14&hidenavigation=1&theme=dark&file=/index.js](https://codesandbox.io/s/github/chmac14789/formik/tree/next/examples/format-string-by-pattern?fontsize=14&hidenavigation=1&theme=dark&file=/index.js)
 
 **\*Pro Tip:** I'm all about making intuitive API's and so I'm aware that `parse` and `format` are hard to remember. The trick I've been using / saying in my head is as follows: "format" → sounds like "from" → "from Formik" → from Formik to input. Again, this is an alpha, so if it's too confusing, we'll rename these.\*
 

@@ -10,5 +10,5 @@
 
 ## Reporting a Vulnerability
 
-Send a Twitter DM to [@jaredpalmer](http://twitter.com/@jaredpalmer) or an email to security@jaredpalmer.com
+Send a Twitter DM to [@chmac14789](http://twitter.com/@chmac14789) or an email to security@chmac14789.com
 

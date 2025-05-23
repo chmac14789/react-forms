@@ -1,6 +1,6 @@
 # Learn how to add code owners here:
 # https://help.github.com/en/articles/about-code-owners
 
-*          @jaredpalmer @quantizor
-/docs/     @jaredpalmer @quantizor
-/examples/ @jaredpalmer @quantizor
+*          @chmac14789 @quantizor
+/docs/     @chmac14789 @quantizor
+/examples/ @chmac14789 @quantizor

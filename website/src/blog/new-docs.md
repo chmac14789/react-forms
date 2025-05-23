@@ -38,7 +38,7 @@ I chose Next.js over alternatives such as Gatsby and Docusaurus v2 for several r
 
 ### **Why not Gatsby?**
 
-[Gatsby](https://gatsbyjs.org) is a React-based static site generator with a rich plugin and theme ecosystem. Its key value proposition is a single data graph powered by [GraphQL](https://graphql.org). With respect to documentation sites, Gatsby themes—groups of plugins, layouts, and components that child themes can then inherit— are extremely useful. Given the growing number of OSS projects [we are working on](https://github.com/formik), this was seriously compelling. However, I am fairly [convinced that GraphQL is still wildly overkill for documentation and most static document-driven websites](https://jaredpalmer.com/gatsby-vs-nextjs). And yes, I am fully aware that you don't technically _need_ to use GraphQL with Gatsby, but it is definitely its happy path.
+[Gatsby](https://gatsbyjs.org) is a React-based static site generator with a rich plugin and theme ecosystem. Its key value proposition is a single data graph powered by [GraphQL](https://graphql.org). With respect to documentation sites, Gatsby themes—groups of plugins, layouts, and components that child themes can then inherit— are extremely useful. Given the growing number of OSS projects [we are working on](https://github.com/formik), this was seriously compelling. However, I am fairly [convinced that GraphQL is still wildly overkill for documentation and most static document-driven websites](https://chmac14789.com/gatsby-vs-nextjs). And yes, I am fully aware that you don't technically _need_ to use GraphQL with Gatsby, but it is definitely its happy path.
 
 ### **Why not Docusaurus v2?**
 

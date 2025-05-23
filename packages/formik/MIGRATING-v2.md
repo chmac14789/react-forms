@@ -21,7 +21,7 @@ As you may know, you can return a Promise of a validation error from `validate`.
 
 ### `ref`
 
-Currently, you can't attach a ref to Formik using the `ref` prop. However, you still can get around this issue using the prop `innerRef`. We have some WIP [#2208](https://github.com/jaredpalmer/formik/issues/2208) to instead use `React.forwardRef`.
+Currently, you can't attach a ref to Formik using the `ref` prop. However, you still can get around this issue using the prop `innerRef`. We have some WIP [#2208](https://github.com/chmac14789/formik/issues/2208) to instead use `React.forwardRef`.
 
 **v1**
 

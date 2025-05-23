@@ -107,7 +107,7 @@ export function getIn(
  * discussions.
  *
  * @see https://github.com/developit/linkstate
- * @see https://github.com/jaredpalmer/formik/pull/123
+ * @see https://github.com/chmac14789/formik/pull/123
  */
 export function setIn(obj: any, path: string, value: any): any {
   let res: any = clone(obj); // this keeps inheritance when obj is a class

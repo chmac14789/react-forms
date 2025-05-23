@@ -9,7 +9,7 @@ To submit a form in Formik, you need to somehow fire off the provided `handleSub
 
 ### Pre-submit
 
-- Touch all fields. `initialValues` are required and should always be specified. See [#445](https://github.com/jaredpalmer/formik/issues/445#issuecomment-366952762)
+- Touch all fields. `initialValues` are required and should always be specified. See [#445](https://github.com/chmac14789/formik/issues/445#issuecomment-366952762)
 - Set `isSubmitting` to `true`
 - Increment `submitCount` + 1
 
